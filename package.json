@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "The official CLI for the InCode Programming Language",
   "main": "src/index.js",
+  "bin": {
+    "incode": "./src/index.js"
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -27,7 +30,7 @@
   "homepage": "https://github.com/InCodeDevs/CLI#readme",
   "dependencies": {
     "@incodelang/compiler": "^1.1.3",
-    "chalk": "^5.0.0",
+    "chalk": "^4.0.0",
     "commander": "^8.3.0"
   }
 }
