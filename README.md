@@ -1,6 +1,8 @@
 
 # InCode CLI
 
+**Merged into [InCodeDevs/InCode](https://github.com/InCodeDevs/InCode)**
+
 This is the official Command Line Tool (CLI) for the InCode Programming Language.
 
 
